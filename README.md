@@ -14,6 +14,7 @@ This package contains a PyTorch implementation of [GraphSAGE](http://snap.stanfo
 
 - python==3.6.8
 - pytorch==1.0.0
+- Pillow-9.0.1 support
 
 
 
